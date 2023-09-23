@@ -15,6 +15,8 @@ public class CharBooleanPrimitive {
         boolean myTrue = true;
         myTrue = false;
 
+        System.out.println(myTrue);
+
 
     }
     
